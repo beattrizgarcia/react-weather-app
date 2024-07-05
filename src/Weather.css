@@ -36,9 +36,10 @@
 }
 
 .Weather .unit {
-    color: rgb(33, 33, 33);
-  
+  color: rgb(33, 33, 33);
 }
 
-
-
+.Weather canvas {
+  display: inline-block;
+  margin-right: 5px;
+}
